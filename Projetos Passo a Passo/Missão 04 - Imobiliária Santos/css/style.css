@@ -16,3 +16,53 @@ p {
     font-size: 18px;
     line-height: 28px;
 }
+
+.secao1 {
+    background-color: aquamarine;
+}
+
+.secao1 img {
+    width: 150px;
+}
+
+.secao1 p {
+    margin-top: 15px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.secao1 a {
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: solid 2px #1d1d1d;
+    text-decoration: none;
+    margin: 0 10px 0 10px;
+}
+
+.secao2 img {
+    margin-top: 50px;
+    padding-top: 0;
+}
+
+span {
+    font-weight: bold;
+}
+
+#sobre h1 {
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+#sobre h2 {
+    color: #1c81c0;
+    margin-top: 0;
+    font-weight: normal;
+}
+
+#sobre img {
+    width: 450px;
+}
+
+.texto-azul span {
+    color: #1c81c0;
+}
