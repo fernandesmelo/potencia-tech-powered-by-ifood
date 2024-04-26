@@ -68,7 +68,7 @@ span {
 }
 
 #servicos {
-    background-color: #1c81c0;
+    background-color: #1d80c1;
 }
 
 h3 {
@@ -99,4 +99,57 @@ h3 {
     line-height: 42px;
     text-align: left;
     font-size: 22px;
+}
+
+#corretores h3 {
+    color: #1c81c0;
+}
+
+#corretores span {
+    color: #1c81c0;
+}
+
+#corretores img {
+    width: 450px;
+}
+
+#contato {
+    background-color: #1d80c1;
+}
+
+iframe {
+    width: 600px;
+    height: 300px;
+}
+
+#contato p {
+    color: #ffffff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+#contato span {
+    color: #fff81b;
+}
+
+#contato ul {
+    margin: 40px auto;
+    width: 210px;
+    list-style: none;
+}
+
+#contato li {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+
+#contato a {
+    background-color: #ffffff;
+    color: #1d80c1;
+    padding: 2px 5px;
+    border-radius: 5px;
 }
